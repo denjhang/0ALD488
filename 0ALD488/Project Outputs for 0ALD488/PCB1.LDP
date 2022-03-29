@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\开源 2022.2.15\即将开源\0ALD488\0ALD488\PCB1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb1-roundholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=pcb1-slotholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb1-roundholes-nonplated.txt|LayerPairs=gtl,gbl
